@@ -1,5 +1,0 @@
-To get Fixed Capital, find Inventory and subtract  inventory from Fixed Capital
-
-Find Inventory values
-
-Find Investment value Unit
